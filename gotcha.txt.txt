@@ -1,3 +1,5 @@
+Team: GOTCHA
+
 Matthew Craig
 Oli Dalhgren
 James Furdui
